@@ -8,4 +8,9 @@ int main(void)
 scanf("%d %d %d",&a,&b,&c);
 
 printf("%d %d %d",a,b,c);
+
+printf("%d %d %d",a,b,c);
+printf("%d %d %d",a,b,c);
+
+
 }
